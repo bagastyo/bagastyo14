@@ -3,10 +3,10 @@
 
 Usage
 
-cd bagastyo14
+cd instabot
 
 pip2 install -r requirements.tx
 
-bash bagastyo14
+bash instabot
 
 #Masukkan Password Yg kamu Mau Dalam File pass txt.
